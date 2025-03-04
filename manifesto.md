@@ -1,12 +1,12 @@
-# 📜 Moneyt.io Manifesto
+# 📜 The MoneyT Manifesto
 
 ## 🚀 Introduction
 
-Moneyt.io is a personal finance management platform that integrates advanced accounting processes into a simple, intuitive interface. Designed to simplify and automate financial administration, it enables users to manage their resources efficiently and make informed financial decisions.
+MoneyT is a personal finance management platform that integrates advanced accounting processes into a simple, intuitive interface. Designed to simplify and automate financial administration, it enables users to manage their resources efficiently and make informed financial decisions.
 
 ## 🎯 Vision
 
-At Moneyt.io, we believe that personal finance management should be robust, intuitive, and accessible to everyone. Our vision is to eliminate financial complexity by offering advanced accounting tools in an automated, easy-to-use platform. We strive to create an environment where every user can make informed decisions, optimize their resources, and achieve greater economic stability.
+At MoneyT, we believe that personal finance management should be robust, intuitive, and accessible to everyone. Our vision is to eliminate financial complexity by offering advanced accounting tools in an automated, easy-to-use platform. We strive to create an environment where every user can make informed decisions, optimize their resources, and achieve greater economic stability.
 
 ## 🔍 Values
 
@@ -34,7 +34,7 @@ At Moneyt.io, we believe that personal finance management should be robust, intu
 - Predictive Analysis of Expenses and Budgets
 - Collaborative Finances
 
-## 🛠️ Projects
+## 🛠️ Projects and Technologies
 
 - **[Manifesto](https://github.com/moneyt-io/manifesto)**: Markdown
 - **[App](https://github.com/moneyt-io/app)**: Flutter
@@ -71,13 +71,13 @@ To be defined.
 
 ## 🌍 Community
 
-At Moneyt.io, we adopt a "build in public" approach, meaning our development is transparent and open to collaboration.
+At MoneyT, we adopt a "build in public" approach, meaning our development is transparent and open to collaboration.
 
-- **[GitHub](https://github.com/moneyt-io)**: Moneyt.io Repository
-- **[LinkedIn](https://www.linkedin.com/company/moneyt-io)**: Moneyt.io Profile
-- **[Reddit](https://www.reddit.com/r/moneyt_io)**: Moneyt.io Subreddit
+- **[GitHub](https://github.com/moneyt-io)**: MoneyT Repository
+- **[LinkedIn](https://www.linkedin.com/company/moneyt-io)**: MoneyT, LLC Profile
+- **[Reddit](https://www.reddit.com/r/moneyt_io)**: Moneyt-io Subreddit
 - **[Discord](https://discord.com/invite/zG4yNyym)**: Moneyt.io Server
 
 ## 🔖 Tags
 
-Personal Finance Manager · Open Source · Build in Public · Project Template · Company Template
+Personal Finance Manager · Open Source Project · Build in Public · Project Template · Company Template
