@@ -74,8 +74,8 @@ To be defined.
 At MoneyT, we adopt a "build in public" approach, meaning our development is transparent and open to collaboration.
 
 - **[GitHub](https://github.com/moneyt-io)**: MoneyT Repository
-- **[LinkedIn](https://www.linkedin.com/company/moneyt-io)**: MoneyT, LLC Profile
-- **[Reddit](https://www.reddit.com/r/moneyt_io)**: Moneyt-io Subreddit
+- **[LinkedIn](https://www.linkedin.com/company/moneyt-io)**: MONEYT, LLC Profile
+- **[Reddit](https://www.reddit.com/r/moneyt_io)**: r/moneyt_io Subreddit
 - **[Discord](https://discord.com/invite/zG4yNyym)**: Moneyt.io Server
 
 ## 🔖 Tags
