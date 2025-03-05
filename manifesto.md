@@ -20,12 +20,15 @@ At MoneyT, we believe that personal finance management should be robust, intuiti
 - Income
 - Expenses
 - Transfers
+- Chart of accounts
+- Contacts
 - Loans
 - Budgets
 - Credit Cards
 - Shared Expenses
 - Investments
 - Cryptoassets
+- Multi-currency
 
 ### 🔗 Integrations and Services
 - Bank Synchronization
